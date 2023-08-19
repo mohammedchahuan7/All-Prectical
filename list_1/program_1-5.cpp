@@ -8,7 +8,7 @@ main()
 	int n,m,res,a[20][20],i,j;
 	cout<<" Mohammed Chauhan "<<endl;
 	cout<<"En_no:-220130318004 "<<endl;
-	cout<<"---------------------"<<endl;
+	cout<<"...................."<<endl;
 	cout<<"Enter the row: ";
 	cin>>n;
 	cout<<"Enter the col: ";
