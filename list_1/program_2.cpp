@@ -18,7 +18,7 @@ int main()
 	float f;
 	cout<<"Mohammed Chauhan "<<endl;
 	cout<<"En_no:-220130318004 "<<endl;
-	cout<<"---------------------"<<endl;
+	cout<<"...................."<<endl;
 	cout<<"Enter the Teamprature in fahernhit : ";
 	cin>>f;
 	cout<<"Temprature in celsius = "<<t.conversion(f);
