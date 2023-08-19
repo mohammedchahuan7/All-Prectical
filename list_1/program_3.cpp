@@ -5,6 +5,6 @@ int main()
 	cout<<"Mohammed Chauhan "<<endl;
 	cout<<"En_no:-220130318004 "<<endl;
     	cout << "hello world";
-	cout<<"---------------------"<<endl;
+	cout<<"...................."<<endl;
   return 0;
 }
