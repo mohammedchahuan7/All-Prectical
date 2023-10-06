@@ -8,8 +8,7 @@
  void temp::display()  
  { 
      cout<<"En_no:-220130318004<<endl; 
-      cout<<"Mohammed Chauhan"<<endl; 
-     cout<"MY NAME IS VASU" <<endl; 
+      cout<<"Mohammed Chauhan"<<endl;
  } 
  int main()  
  { 
